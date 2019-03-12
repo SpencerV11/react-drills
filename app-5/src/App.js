@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Picture pic={"https://news.nationalgeographic.com/content/dam/news/2016/09/08/humpback-whales/01humpbackwhales.ngsversion.1473420603711.adapt.1900.1.jpg"}/>
+        <Picture pic={"https://images.unsplash.com/photo-1551294444-20efb855d547?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"}/>
       </div>
     )
   }
